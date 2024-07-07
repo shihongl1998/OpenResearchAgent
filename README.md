@@ -2,7 +2,7 @@
 
 ## A self-directed, adaptive framework that analyzes published research, synthesizes novel approaches, and implements them through code development and experimentation.
 
-![Project Logo](link_to_logo.png)
+![Project Logo](imgs/logo.png)
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![GitHub stars](https://img.shields.io/github/stars/yourusername/open-research-agent.svg)](https://github.com/yourusername/open-research-agent/stargazers)
