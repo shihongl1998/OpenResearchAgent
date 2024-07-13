@@ -8,6 +8,7 @@ A self-directed, adaptive framework that analyzes published research, synthesize
 [![GitHub stars](https://img.shields.io/github/stars/shihongl1998/OpenResearchAgent.svg)](https://github.com/shihongl1998/OpenResearchAgent/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/shihongl1998/OpenResearchAgent.svg)](https://github.com/shihongl1998/OpenResearchAgent/network)
 [![GitHub issues](https://img.shields.io/github/issues/shihongl1998/OpenResearchAgent.svg)](https://github.com/shihongl1998/OpenResearchAgent/issues)
+[![GitHub contributors](https://img.shields.io/github/contributors/shihongl1998/OpenResearchAgent.svg)](https://github.com/shihongl1998/OpenResearchAgent/graphs/contributors)
 
 
 Open Research Agent is an ambitious project aimed at revolutionizing the way we approach scientific research and development. By leveraging the power of artificial intelligence and machine learning, this framework autonomously navigates through vast amounts of published research, identifies promising avenues for innovation, and brings new ideas to life through code implementation and rigorous testing.
