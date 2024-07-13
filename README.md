@@ -37,7 +37,7 @@ We welcome contributions from researchers, developers, and enthusiasts alike. Wh
 
 ### Community and Support
 
-- Join our [Slack Channel](openresearchagent.slack.com) for discussions and support.
+- Join our [Slack Channel](https://join.slack.com/t/openresearchagent/shared_invite/zt-2m9v3aqzo-3CJyVNP4i3WEAgB3tf6ajg) for discussions and support.
 - Follow us on [Twitter](https://x.com/ShihongLiu123) for project updates.
 
 ### License
