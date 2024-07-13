@@ -1,13 +1,14 @@
 # Open Research Agent
 
-## A self-directed, adaptive framework that analyzes published research, synthesizes novel approaches, and implements them through code development and experimentation.
+A self-directed, adaptive framework that analyzes published research, synthesizes novel approaches, and implements them through code development and experimentation.
 
 ![Project Logo](imgs/logo.png)
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![GitHub stars](https://img.shields.io/github/stars/yourusername/open-research-agent.svg)](https://github.com/yourusername/open-research-agent/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/yourusername/open-research-agent.svg)](https://github.com/yourusername/open-research-agent/network)
-[![GitHub issues](https://img.shields.io/github/issues/yourusername/open-research-agent.svg)](https://github.com/yourusername/open-research-agent/issues)
+[![GitHub stars](https://img.shields.io/github/stars/shihongl1998/OpenResearchAgent.svg)](https://github.com/shihongl1998/OpenResearchAgent/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/shihongl1998/OpenResearchAgent.svg)](https://github.com/shihongl1998/OpenResearchAgent/network)
+[![GitHub issues](https://img.shields.io/github/issues/shihongl1998/OpenResearchAgent.svg)](https://github.com/shihongl1998/OpenResearchAgent/issues)
+
 
 Open Research Agent is an ambitious project aimed at revolutionizing the way we approach scientific research and development. By leveraging the power of artificial intelligence and machine learning, this framework autonomously navigates through vast amounts of published research, identifies promising avenues for innovation, and brings new ideas to life through code implementation and rigorous testing.
 
@@ -39,7 +40,9 @@ We welcome contributions from researchers, developers, and enthusiasts alike. Wh
 - Join our [Slack Channel](openresearchagent.slack.com) for discussions and support.
 - Follow us on [Twitter](https://x.com/ShihongLiu123) for project updates.
 
+### License
 
+- This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 ---
 
 Open Research Agent is more than just a tool; it's a vision for the future of scientific discovery. Join us in pushing the boundaries of what's possible in research and development!
